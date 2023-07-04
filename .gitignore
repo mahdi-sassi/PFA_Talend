@@ -1,8 +1,0 @@
-**/jobInfo.properties
-.JETEmitters/
-.Java/
-.metadata/
-PFA_Talend/code/routines/system/*.*
-PFA_Talend/temp/
-PFA_Talend/sqlPatterns/
-PFA_Talend/talend.project
