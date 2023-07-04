@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_z9HvYOmeEe2FcMh0KQGb7Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_z9HvYemeEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Login" prompt="Data_warehouse_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="tooling_access"/>
+  <contextParameter xmi:id="_z9HvYumeEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Schema" prompt="Data_warehouse_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_z9HvY-meEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Port" prompt="Data_warehouse_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_z9HvZOmeEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Server" prompt="Data_warehouse_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.16.0.222"/>
+  <contextParameter xmi:id="_z9HvZemeEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Password" prompt="Data_warehouse_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:FxkG8ucv9kQ8epfYamy4s9Watmjk+Og3o51p1zWy1b/FCIaF13Aefjci"/>
+  <contextParameter xmi:id="_z9HvZumeEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_AdditionalParams" prompt="Data_warehouse_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_z9HvZ-meEe2FcMh0KQGb7Q" comment="" name="Data_warehouse_Database" prompt="Data_warehouse_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DW_xPAD"/>
+</talendfile:ContextType>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-Vqv0AuFEe6mKIM0_4T2Ww" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-Vqv0QuFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Login" prompt="cumule_connection_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="etl_access"/>
+  <contextParameter xmi:id="_-Vqv0guFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Server" prompt="cumule_connection_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="172.16.0.64"/>
+  <contextParameter xmi:id="_-Vqv0wuFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Password" prompt="cumule_connection_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:Geg8OUUY0uHa/kjQ+WpGZ0k+kDqer3++rrB3NfkJXMQH7UkiEQ=="/>
+  <contextParameter xmi:id="_-Vqv1AuFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Port" prompt="cumule_connection_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="1433"/>
+  <contextParameter xmi:id="_-Vqv1QuFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_AdditionalParams" prompt="cumule_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_-Vqv1guFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Database" prompt="cumule_connection_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TEST_TOOL_XPAD_09"/>
+  <contextParameter xmi:id="_-Vqv1wuFEe6mKIM0_4T2Ww" comment="" name="cumule_connection_Schema" prompt="cumule_connection_Schema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

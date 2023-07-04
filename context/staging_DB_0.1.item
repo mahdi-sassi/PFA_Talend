@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_Hpo9kOkAEe2VrMOBIchKow" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_Hpo9kekAEe2VrMOBIchKow" comment="" name="staging_DB_Login" prompt="staging_DB_Login?" promptNeeded="false" repositoryContextId="" type="id_String" value="etl_access"/>
+  <contextParameter xmi:id="_Hpo9kukAEe2VrMOBIchKow" comment="" name="staging_DB_Schema" prompt="staging_DB_Schema?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_Hpo9k-kAEe2VrMOBIchKow" comment="" name="staging_DB_Database" prompt="staging_DB_Database?" promptNeeded="false" repositoryContextId="" type="id_String" value="DW_xPAD_Staging"/>
+  <contextParameter xmi:id="_Hpo9lOkAEe2VrMOBIchKow" comment="" name="staging_DB_Server" prompt="staging_DB_Server?" promptNeeded="false" repositoryContextId="" type="id_String" value="172.16.0.64"/>
+  <contextParameter xmi:id="_Hpo9lekAEe2VrMOBIchKow" comment="" name="staging_DB_Password" prompt="staging_DB_Password?" promptNeeded="false" repositoryContextId="" type="id_Password" value="enc:system.encryption.key.v1:wn0NJo8fvNpryQv8yaR2ZxtZGRRGRnaHdw/LoxLMLCz1PrZZ2w=="/>
+  <contextParameter xmi:id="_Hpo9lukAEe2VrMOBIchKow" comment="" name="staging_DB_AdditionalParams" prompt="staging_DB_AdditionalParams?" promptNeeded="false" repositoryContextId="" type="id_String" value=""/>
+  <contextParameter xmi:id="_Hpo9l-kAEe2VrMOBIchKow" comment="" name="staging_DB_Port" prompt="staging_DB_Port?" promptNeeded="false" repositoryContextId="" type="id_String" value="1433"/>
+</talendfile:ContextType>
